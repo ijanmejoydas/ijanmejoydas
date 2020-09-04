@@ -3,6 +3,10 @@
 <!--
 **ijanmejoydas/ijanmejoydas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+# Janmejoy Das Adhikari
+<p align="center"><img src="https://giphy.com/embed/UcK7JalnjCz0k" width="500" /> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
